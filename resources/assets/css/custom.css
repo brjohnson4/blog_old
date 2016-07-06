@@ -1,0 +1,64 @@
+.no-decoration-link, a:link, a:visited, a:hover {
+	text-decoration: none; 
+	color: inherit;
+}
+
+#search em {
+	background: yellow;
+	font-style: normal;
+}
+
+.spacer-100 { 
+	margin:0; 
+	padding:0; 
+	height:100px; 
+}
+
+.spacer-50 { 
+	margin:0; 
+	padding:0; 
+	height:50px; 
+}
+
+.icon-size {
+	font-size:6em;
+}
+
+.white-text {
+	color:white;
+}
+
+.subtitle {
+	font-size:18px;
+}
+
+.video-title {
+	font-size:18px;
+}
+
+.video-description {
+	font-size:16px;
+}
+
+.video-published {
+	font-size:14px;
+}
+
+.small-thumbnail-width {
+	width:100%;
+}
+
+.medium-thumbnail-width {
+	width:200px;
+}
+
+.margin-right-small {
+	margin-right: 5px;
+}
+
+.home-button {
+	background: #fff; 
+	padding: 12px; 
+	border-radius: 4px; 
+	color: #28669F;
+}
